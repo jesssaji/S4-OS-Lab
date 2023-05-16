@@ -26,7 +26,7 @@ void asort()
 				p[j]=temp;
 			}
 			
-				}
+		}
 	}
 	for(int i=0;i<n;i++)
 	{
