@@ -3,7 +3,7 @@ Course Code & Name	: 101009IT422S, OPERATING SYSTEM LAB(Unix)
 
 Regulations	: 2021- Autonomous
 
-Semester	: S5
+Semester	: S4
 
 Programme	: Computer Science and Business Systems
 
