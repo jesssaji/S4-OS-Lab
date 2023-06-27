@@ -1,5 +1,5 @@
-7.  a) Implementation of IPC communication using Pipes
+7. Implementation of IPC communication using Pipes
 
-    b) Implementation of IPC communication using message queue
+8. Implementation of IPC communication using message queue
     
-    c) Implementation of IPC communication shared memory.
+9. Implementation of IPC communication shared memory.
