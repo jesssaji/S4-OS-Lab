@@ -3,6 +3,8 @@
 #include<sys/wait.h>
 #include<unistd.h>
 #include<stdlib.h>
+
+
 int main()
 {
 	int fd[2],n;
