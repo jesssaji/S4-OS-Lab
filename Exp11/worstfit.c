@@ -3,7 +3,7 @@
 int mblock[20];
 int msize;
 
-void ascsort()
+void dscsort()
 {	
 	int temp;
     for (int i = 0; i < msize; i++)
