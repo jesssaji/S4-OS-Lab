@@ -3,7 +3,7 @@
 int mblock[20];
 int msize;
 
-void descsort()
+void ascsort()
 {	
 	int temp;
     for (int i = 0; i < msize; i++)
@@ -34,7 +34,7 @@ void main()
         scanf("%d",&mblock[i]);
         flag[i] = 0;
     }
-    descsort();
+    ascsort();
     printf("Enter the number of processes : ");
     scanf("%d",&psize);
     for (int i = 0 ; i < psize; i++)
